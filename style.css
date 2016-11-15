@@ -1,0 +1,28 @@
+﻿	body {
+		text-align: center;
+		font-family: helvetica;
+		background: url("https://s11.postimg.org/mnbxrys43/20140809_132246682_i_OS.jpg");
+		background-position: center;
+		background-size: cover;
+		color: white;
+	}
+	p {
+		font-size: 18px;
+		background-color: brown;
+	}
+	input {
+		border: 0;
+		padding: 5px;
+		font-size: 10px;
+	}
+	input[type="submit"] {
+		background: white;
+		colour: black;
+	}
+	h2 {
+		text-align: left;
+		font-size: 30px;
+	}
+	table {
+		background-color: lightgreen;
+	}
